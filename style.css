@@ -1,0 +1,33 @@
+h2{
+    font-weight:bolder;
+}
+#name{
+    font-size: 85%;
+    border: none;
+    background: transparent;
+}
+*{
+    font-family: 'montserrat', sans-serif;
+    background-color: rgb(198, 198, 198);
+}
+h4{
+    color:grey;
+}
+h3{
+    font-weight: lighter;
+}
+#content{
+    font-size: 100%;
+    width: 100%;
+}
+#category1{
+    border:1px solid ;
+    border-radius: 50%;
+    border-color:blue;
+}
+#todo{
+    background-color: rgb(212, 127, 141);
+    width: 100%;
+    font-size: 100%;
+    border:1px rgb(212, 127, 141) solid;
+}
